@@ -4,6 +4,7 @@ Com ajuda de vídeo no [YouTube](https://www.youtube.com/watch?v=Q9oVStZ1DJA), c
 
 # PROGRAMAÇÃO
 ![JS](https://i.ibb.co/b1f2MYy/javascript.png)
+![NodeJS](https://i.ibb.co/1YCGHPx/nodejs-logo-adesivo-sticker.png)
 
 # OUTROS
 
